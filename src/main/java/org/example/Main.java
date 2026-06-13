@@ -10,8 +10,6 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-
-
         List<Contact> contacts = new ArrayList<>();
         contacts.add(new Contact("John Doe", "123123123"));
         contacts.add(new Contact("Jane Doe", "124124124"));
